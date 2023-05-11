@@ -1,4 +1,4 @@
-package co.com.edu.umanizales.ledsleds;
+package co.com.edu.umanizales.leds;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package co.com.edu.umanizales.ledsleds;
+package co.com.edu.umanizales.leds;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
